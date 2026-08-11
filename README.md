@@ -41,7 +41,7 @@ I'm actively working on new projects. Check back or reach out if you'd like to c
 ## Let's Connect
 
 - **GitHub:** [babatundeseyi](https://github.com/babatundeseyi/Priority-Task-Board.git)
-- **Email:** [oluwaseyibabatunde208@gmail.com](oluwaseyibabatunde208@gmail.com)
+- **Email:** [oluwaseyibabatunde208@gmail.com](mailto:oluwaseyibabatunde208@gmail.com)
 - **LinkedIn** [Oluwaseyi Babatunde](https://www.linkedin.com/in/oluwaseyi-babatunde-836824281?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 Open to conversations about JavaScript, web development, creative problem-solving, or opportunities to build something meaningful.
