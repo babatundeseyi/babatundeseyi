@@ -20,6 +20,7 @@ I'm **open to opportunities** in the industry—whether that's collaborating on 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - [Link to repo](https://github.com/babatundeseyi/Priority-Task-Board.git)
+- [Live Demo](https://priority-task-board.vercel.app/)
 
 ### More Coming Soon
 I'm actively working on new projects. Check back or reach out if you'd like to collaborate.
