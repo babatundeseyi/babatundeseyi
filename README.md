@@ -12,7 +12,7 @@ I'm **open to opportunities** in the industry—whether that's collaborating on 
 
 ---
 
-## What I'm Building
+## What I've Built
 
 ### Priority Task Board
 **A clean and simple task management app. Add tasks, organize by priority (high, medium, low), and track your work. Built with vanilla JavaScript, no sign-up needed.**
